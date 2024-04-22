@@ -119,12 +119,11 @@
 
 - Console 구현
     
-    
-
 https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/f5f62416-b12c-4474-927c-3db2420bee59
 
+- thymeleaf 구현
 
-    
+https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/cdb5e2c4-6503-446f-a0b7-5641ce9ddb18
 
 # 5.DB 테이블 구성
 
