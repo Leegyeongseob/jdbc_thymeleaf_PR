@@ -53,6 +53,10 @@
     - Login select : 김동환
 - **PPT 협업**
 
+https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/94364018-f821-4db9-98bc-824a984407d1
+
+[올룸골룸 (1).pdf](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/files/15060384/1.pdf)
+
 # 3. 진행 순서
 
 ## [1단계] 요구사항 분석(External Schema)
@@ -119,7 +123,7 @@
 
 - Console 구현
     
-https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/f5f62416-b12c-4474-927c-3db2420bee59
+https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/ce484707-cde6-4550-b1f1-d0f59350cb09
 
 - thymeleaf 구현
 
@@ -131,32 +135,29 @@ https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/cdb5e2c4-6503
 
 ### <03월 26일 : 주제 선정 후 프로젝트 Flow 초안>
 
-![올룸골룸(03 26)](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/6061c606-4538-470a-a1a0-ab0904287aac)
+![20240326_171913](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/95adeddc-0ca9-4f53-acac-814e300e03be)
 
 ### <03월 27일 : 테이블 ERD로 표현 후 관계 연결>
 
-![올룸골룸(03 27)](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/2d7fa287-5761-47ee-8543-76b34df46fea)
+![올룸골룸](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/7b5dda68-5090-435c-890c-ea1797840146)
 
 ### <03월 28일 : 1차 회의 후 불필요 테이블 삭제>
 
-![올룸골룸 EDR(03 28)](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/fe3d77d3-2699-40ea-9819-3821a5702bbd)
-
+![올룸골룸 EDR(03 28)](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/69dc9652-a663-407d-97ca-7e952d85024d)
 
 ### <03월 29일 : 데이터, 연결 관계 수정>
 
-![올룸골룸 (03 29)](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/87273785-7680-467f-be67-8a067f068bcb)
-
+![올룸골룸 (1)](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/db55a93a-b8ec-41fa-acf7-3366131acef7)
 
 # 6. 쿼리문 작성
 
 ## ERD 최종
 
-![erd최종 PNG](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/5c8ad27e-8dba-4d44-9deb-9504bb981db1)
-
+![erd최종 PNG (1)](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/95610e20-2bc5-4623-8813-9047b2f9c540)
 
 ## 스토리 보드
-![올룸골룸 스토리보드](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/6e314e41-1b10-4337-bf57-cf2d2af1152b)
 
+![555555555555555555555555555555 (1)](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/ee89294f-9e4b-4301-9159-eae2a08052a3)
 
 ## 1. **회원(MEMBER) 테이블**
 
@@ -10053,11 +10054,13 @@ https://shortcuts.tistory.com/8
 https://www.erdcloud.com/
 
 # 11. 개발환경
-![오라클](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/113673fc-06d8-4804-b514-bcb1fee4d631)
-![타임리프](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/0ca5de90-5afb-4a53-b8d3-6b975a63be3e)
-![dbeaver](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/875075d1-2ada-47a4-9cc9-db78ad43ff2a)
-![vscode](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/1dc5797f-5389-46d3-8b99-97a61b75db02)
-![인텔리제이](https://github.com/Leegyeongseob/final_OlumGollumPR/assets/67867076/e184d974-1ca2-48e7-a38e-a545063b6299)
 
+![오라클](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/d91bd013-d0de-4e24-8c20-dc4baa2931c4)
 
+![dbeaver](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/89f31b00-0c86-495c-9194-82bc1e4b37dc)
 
+![타임리프](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/2e58acfd-da77-4ad7-97ce-a7dba261236d)
+
+![vscode](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/b075f97b-9d62-4971-aa57-fccf291b9fd8)
+
+![인텔리제이](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/552274cc-b4f7-4326-8cc5-f3f3038e4692)
