@@ -10055,7 +10055,8 @@ https://www.erdcloud.com/
 
 # 11. 개발환경
 
-![오라클](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/d91bd013-d0de-4e24-8c20-dc4baa2931c4)
+<img src="https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/d91bd013-d0de-4e24-8c20-dc4baa2931c4?style=for-the-badge&logo=Python&logoColor=white">
+
 
 ![dbeaver](https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/89f31b00-0c86-495c-9194-82bc1e4b37dc)
 
