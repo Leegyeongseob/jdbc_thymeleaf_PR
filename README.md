@@ -10040,10 +10040,10 @@ https://docs.google.com/spreadsheets/d/1PHxGOc3YHsZqQTuzGfzHkA2f34ExoHbKAJ8qmyVL
 
 ## GitHub url
 
-- 이경섭 : https://github.com/Leegyeongseob/final_OlumGollumPR
-- 서용욱 : https://github.com/tjdyddnr1/DB_Project
-- 김동환 : https://github.com/kimfjd/Oulm/tree/master
-- 김세호 : https://github.com/tpgh1554/OlumGollumFinal
+## Team
+|<img src="https://avatars.githubusercontent.com/u/67867076?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/161570998?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/161570977?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/49334905?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|
+|Neo.경섭<br/>[@Leegyeongseob](https://github.com/Leegyeongseob)|[@tjdyddnr1](https://github.com/tjdyddnr1)|kimfjd<br/>[@kimfjd](https://github.com/kimfjd)|[@tpgh1554](https://github.com/tpgh1554)|
 
 ## Git Bash 참고 사이트
 
