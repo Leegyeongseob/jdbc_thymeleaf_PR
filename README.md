@@ -10055,13 +10055,13 @@ https://www.erdcloud.com/
 
 # 11. 개발환경
 
-<img src="https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/d91bd013-d0de-4e24-8c20-dc4baa2931c4?style=for-the-badge&logo=Python&logoColor=white">
 
-<img src="https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/89f31b00-0c86-495c-9194-82bc1e4b37dc?style=for-the-badge&logo=Python&logoColor=white">
 
-<img src="https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/2e58acfd-da77-4ad7-97ce-a7dba261236d?style=for-the-badge&logo=Python&logoColor=white">
-
-<img src="https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/b075f97b-9d62-4971-aa57-fccf291b9fd8?style=for-the-badge&logo=Python&logoColor=white">
-
-<img src="https://github.com/Leegyeongseob/jdbc_thymeleaf_PR/assets/67867076/552274cc-b4f7-4326-8cc5-f3f3038e4692?style=for-the-badge&logo=Python&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> -->
+      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  
 
